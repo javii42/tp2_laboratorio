@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1505339316 source:d:\documentos javier\tpdoslaboratorio\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1505338832 d:\documentos javier\tpdoslaboratorio\funciones.h
+
+1505339187 source:d:\documentos javier\tpdoslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505399602 source:f:\laboratorio - 1 utn\tpdoslaboratorio\funciones.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1505398110 f:\laboratorio - 1 utn\tpdoslaboratorio\funciones.h
+
+1505399116 source:f:\laboratorio - 1 utn\tpdoslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506087498 source:e:\laboratorio - 1 utn\tpdoslaboratorio\funciones.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506086400 e:\laboratorio - 1 utn\tpdoslaboratorio\funciones.h
+
+1506003302 source:e:\laboratorio - 1 utn\tpdoslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
