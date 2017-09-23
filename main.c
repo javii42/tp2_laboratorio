@@ -20,8 +20,8 @@ int main()
         {
             case 1:
                 system("cls");
-               // addPersona(personas,TAM);
-               inicializarEstructura(personas,TAM);
+                addPersona(personas,TAM);
+               //inicializarEstructura(personas,TAM);
                 system("pause");
                 break;
             case 2:
